@@ -146,7 +146,7 @@ class ToDoList extends Component {
             <div>
                 <div className="row">
                     <br />
-                    <Header className="header" as="h2">TO-DO Lis</Header>
+                    <Header className="header" as="h2">TO-DO List</Header>
                     <br />
                 </div>
                 <div className="row">
